@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sapphyree/team-mars-rover/issues"
   },
-  "homepage": "https://github.com/sapphyree/team-mars-rover#readme"
+  "homepage": "https://github.com/sapphyree/team-mars-rover#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
